@@ -1,0 +1,67 @@
+
+
+                     Server Creation - Node & Express
+                   ____________________________________
+
+                               Basic Command
+
+                     1. Create package.json - npm init
+
+                     2. Install Express - npm i Express
+
+                     3. Install JWT - npm i jsonwebtoken
+
+                     4. Install mongoose - npm i mangoose
+
+                     5. Install CORS - npm i cors
+
+
+                                Basic Steps
+                              _______________
+
+
+                            1. create a folder
+
+                            2. create package.json
+
+                            3. install Express
+
+                            4. crerate index.js
+
+                            5. import express inside index.js
+
+                            6. create app using express
+
+                            7. set uu port number
+
+                            8. resolve HTTP request
+
+                            9. HTTP response code
+
+                                 1xx - information
+                                 2xx - success
+                                 3xx - redirection
+                                 4xx - client error
+                                 5xx - server error
+
+                            10. JWT token - Authentication
+
+                               10.1 token generation - sign()
+
+                            11. Middleware 
+
+                               11.1 Application specific middleware
+                               11.2 Router specific middleware
+
+                            12. Database Integration -
+
+                              12.1 Install mongoose
+                              12.2 Database connect via mongoose
+                              12.3 Create model using mongoose
+
+                            13. Asynchronous function resolving - promise
+
+                               13.1 Resolve state - then()
+                               13.2 Reject state - catch()   
+
+                            14. CORS - cross origin resource shairing
